@@ -23,7 +23,5 @@ Note : Change the version number of blender to match the version you have
 Get api key :
 https://makersuite.google.com/u/2/app/apikey?pli=1
 
-Tutorial :
-https://youtu.be/SWeg4Cw62yE
 
 Enjoy !
