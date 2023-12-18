@@ -20,4 +20,7 @@ Note : Change the version number of blender to match the version you have
 2-Install the addon just the normal way open Edit > Preferences > Add-ons > Install
 
 
+Get api key :
+https://makersuite.google.com/u/2/app/apikey?pli=1
+
 Enjoy !
